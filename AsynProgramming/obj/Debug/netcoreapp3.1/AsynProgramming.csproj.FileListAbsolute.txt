@@ -1,0 +1,13 @@
+C:\Users\59177\source\repos\AsynProgramming\AsynProgramming\bin\Debug\netcoreapp3.1\AsynProgramming.exe
+C:\Users\59177\source\repos\AsynProgramming\AsynProgramming\bin\Debug\netcoreapp3.1\AsynProgramming.deps.json
+C:\Users\59177\source\repos\AsynProgramming\AsynProgramming\bin\Debug\netcoreapp3.1\AsynProgramming.runtimeconfig.json
+C:\Users\59177\source\repos\AsynProgramming\AsynProgramming\bin\Debug\netcoreapp3.1\AsynProgramming.runtimeconfig.dev.json
+C:\Users\59177\source\repos\AsynProgramming\AsynProgramming\bin\Debug\netcoreapp3.1\AsynProgramming.dll
+C:\Users\59177\source\repos\AsynProgramming\AsynProgramming\bin\Debug\netcoreapp3.1\AsynProgramming.pdb
+C:\Users\59177\source\repos\AsynProgramming\AsynProgramming\obj\Debug\netcoreapp3.1\AsynProgramming.csprojAssemblyReference.cache
+C:\Users\59177\source\repos\AsynProgramming\AsynProgramming\obj\Debug\netcoreapp3.1\AsynProgramming.AssemblyInfoInputs.cache
+C:\Users\59177\source\repos\AsynProgramming\AsynProgramming\obj\Debug\netcoreapp3.1\AsynProgramming.AssemblyInfo.cs
+C:\Users\59177\source\repos\AsynProgramming\AsynProgramming\obj\Debug\netcoreapp3.1\AsynProgramming.csproj.CoreCompileInputs.cache
+C:\Users\59177\source\repos\AsynProgramming\AsynProgramming\obj\Debug\netcoreapp3.1\AsynProgramming.dll
+C:\Users\59177\source\repos\AsynProgramming\AsynProgramming\obj\Debug\netcoreapp3.1\AsynProgramming.pdb
+C:\Users\59177\source\repos\AsynProgramming\AsynProgramming\obj\Debug\netcoreapp3.1\AsynProgramming.genruntimeconfig.cache
